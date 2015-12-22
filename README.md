@@ -1,1 +1,1 @@
-module-board
+Kinaps board module.
