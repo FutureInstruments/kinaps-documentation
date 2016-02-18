@@ -1,1 +1,1 @@
-Kinaps board module.
+Welcome to the Kinaps documentation repository!
